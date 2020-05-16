@@ -1,6 +1,3 @@
-Name: Keerthivasan Krishnamurthy
-ASU ID: 1217109062
-
 The project contains two parts and each part I made it as a standalone component. There will be a separate test file for each part.
 
 ##################
